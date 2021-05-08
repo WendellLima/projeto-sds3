@@ -80,6 +80,6 @@ const BarChart = () => {
 
 export default BarChart;
 
-function setChartData(arg0: { labels: { categories: string[]; }; series: { name: string; data: number[]; }[]; }) {
-    throw new Error('Function not implemented.');
-}
+//function setChartData(arg0: { labels: { categories: string[]; }; series: { name: string; data: number[]; }[]; }) {
+//    throw new Error('Function not implemented.');
+//}
