@@ -1,4 +1,4 @@
-# Big Game Survey 
+# DS Vendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/WendellLima/projeto-sds3/blob/master/LICENSE) 
 
 
